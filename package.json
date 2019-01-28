@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week-3",
+  "version": "1.0.0",
+  "description": "week3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhiyenvuong/MTM6330-week-3.git"
+  },
+  "author": "nhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhiyenvuong/MTM6330-week-3/issues"
+  },
+  "homepage": "https://github.com/nhiyenvuong/MTM6330-week-3#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
